@@ -43,3 +43,4 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_PROUD_CLIFF_0D94DE900 }}
           action: "close"
+          api_location: "api"
